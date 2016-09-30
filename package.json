@@ -1,0 +1,22 @@
+{
+  "name": "node-image-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manorius/node-image-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manorius/node-image-search/issues"
+  },
+  "homepage": "https://github.com/manorius/node-image-search#readme",
+  "dependencies": {
+    "google-images": "^1.0.0"
+  }
+}
